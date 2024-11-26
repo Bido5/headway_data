@@ -1,0 +1,1 @@
+{"asset_id": "100", "attribute_id": "attr3", "timestamp": "2024-11-25T10:10:00", "value": "4"}
